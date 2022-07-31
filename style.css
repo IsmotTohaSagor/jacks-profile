@@ -1,0 +1,141 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 0;
+}
+h2{
+    font-size:30px;
+}
+p{
+    color:rgb(124, 124, 124);
+}
+.name-highlight{
+    font-size:50px;
+    color: rgb(235, 66, 150);
+}
+
+.link-button{
+    text-decoration: none;
+    font-size:16px;
+    font-weight: bold;
+    padding: 9px 25px;
+    background: #000;
+    background-image: linear-gradient(50deg,rgb(231, 99, 154), rgb(184, 33, 108));
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+.half-width{
+    width: 30%;
+    float:left;
+    margin-top: 18%;
+    padding-left:8%;
+    margin-left:3%;
+ 
+}
+.half-width-img{
+    width: 40%;
+    float:left;
+    margin-top: 8%;
+    margin-left:4%;
+    padding-left:8%;
+}
+.half-width-img img{
+    width: 100%;
+    
+}
+.contain-1{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    height: 900px;
+    background-position: center;
+    
+    
+}
+
+.contain-2{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 900px;
+    background-position: center;
+}
+
+
+.contain-3{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 650px;
+    background-position: center;
+}
+.third-width{
+    width: 25%;
+    float:left;
+    margin:15px;
+  
+}
+
+.third-width img{
+    width: 100%;
+}
+.img-contain{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+.latest-work{
+    font-size:40px;
+    text-align:center;
+    margin-top: 8%;
+}
+.contain-4{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    height:700px;
+    background-position: center;
+}
+.client-part{
+    text-align:center;
+    font-size: 35px;
+    color: rgb(46, 45, 45);
+}
+.itself-part{
+    text-align:center;
+    margin: 1%;
+}
+.details-part{
+    text-align:center;
+    margin: 0 27% ;
+    padding: 22px 0;
+    font-weight: bold;
+    color: rgb(77, 76, 76);
+}
+
+.contact-part{
+    text-align:center;
+    background-image: linear-gradient(50deg,rgb(253, 86, 170),rgb(238, 20, 129),rgb(243, 9, 145));
+    margin: 0 24%;
+    height:146px;
+    margin-top: 2%;
+    border-radius: 8px;
+    
+
+}
+.message-part{
+    text-decoration: none;
+    font-size:14px;
+    color: azure;
+    text-align: center;
+    padding: 2%;
+}
+.mail-part{
+    text-decoration: none;
+    font-size:25px;
+    color: azure;
+    text-align: center;
+    
+
+}
+.footer{
+    text-align: center;
+    margin-top:150px;
+    font-size:12px;
+}
